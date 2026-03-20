@@ -1,6 +1,7 @@
 # Modular LaTeX to DOCX Converter
 
 Modular LaTeX to DOCX Converter is a practical tool for converting LaTeX papers and reports into editable DOCX files for Microsoft Word.
+See example arXiv-2601.13637v1.zip
 
 **Buy the product here:**  
 [https://app.lava.top/products/7138904a-0782-4e9a-a81f-85c0a3a81682](https://app.lava.top/products/7138904a-0782-4e9a-a81f-85c0a3a81682)
